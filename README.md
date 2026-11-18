@@ -1,1 +1,1 @@
-# Student-Repository-
+Study materials, open to everyone.
